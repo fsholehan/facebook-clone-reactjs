@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [https://facebook-bc6aa.web.app/](https://facebook-bc6aa.web.app/)
 
+## Setup Firebase
+
+Remember to setup your firebase. Get your own Firebase Config and put on firebase.js.
+
+Don't forget to activated google authetication.
+
 ## Available Scripts
 
 In the project directory, you can run:
